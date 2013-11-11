@@ -2,6 +2,7 @@ grails.project.class.dir = "target/classes"
 grails.project.test.class.dir = "target/test-classes"
 grails.project.test.reports.dir = "target/test-reports"
 
+grails.plugin.location.'cs-commons' = '../../commonsemantics/CsCommons'
 grails.plugin.location.'cs-users' = '../../commonsemantics/CsUsers'
 grails.plugin.location.'cs-groups' = '../../commonsemantics/CsGroups'
 grails.plugin.location.'cs-circles' = '../../commonsemantics/CsCircles'
